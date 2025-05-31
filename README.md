@@ -88,7 +88,9 @@ coffee-shop-analysis/
 
 # 📜 License
 
-MIT License. See LICENSE for details.
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
 
 # 📬 Contact
 
